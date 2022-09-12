@@ -1,4 +1,4 @@
-# matrixRotateAndFlip
+# Rotate and Flip M
 Learning: (1)矩陣旋轉/翻轉 (2)Python讀寫檔 (3)Python tkinter GUI
 
 # 操作步驟 How to use
